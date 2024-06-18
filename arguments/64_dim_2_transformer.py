@@ -43,5 +43,5 @@ OptimizationParams = dict(
     deformation_lr_final = 0.00001,
     deformation_lr_init = 0.0001,
     split_gs_in_fine_stage=False,
-    canonical_tri_plane_factor_list=["opacity","shs"],#["scales","rotations","opacity","shs"] 
+    canonical_tri_plane_factor_list=["scales","rotations","opacity","shs"],#["scales","rotations","opacity","shs"] 
 )
